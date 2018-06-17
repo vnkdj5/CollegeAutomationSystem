@@ -1,0 +1,5 @@
+<form action="atten.php" method="POST">
+<input type="text" name="student_id" id="student_id" />
+<input type="text" name="status" id="status" />
+<input type="submit" value="Submit" />
+</form>
