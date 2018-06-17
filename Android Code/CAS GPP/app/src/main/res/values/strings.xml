@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CAS</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="timetable">Timetable</string>
+    <string name="staff_name">Name:</string>
+    <string name="clg_name">Government Polytechnic, Pune</string>
+    <string name="show_Attendance">Show Attendance</string>
+
+</resources>

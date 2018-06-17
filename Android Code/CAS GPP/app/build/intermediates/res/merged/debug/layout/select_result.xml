@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center|top">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select Class"
+        android:layout_marginTop="30dp"
+        android:textSize="20dp"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Spinner
+        android:id="@+id/class_spinner_R"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="10dp"
+        android:background="@android:drawable/btn_dropdown"
+        android:layout_gravity="center"
+        android:spinnerMode="dropdown" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select Subject"
+        android:layout_marginTop="30dp"
+        android:textSize="20dp"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Spinner
+        android:id="@+id/subject_spinner_R"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:background="@android:drawable/btn_dropdown"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:spinnerMode="dropdown" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select Type"
+        android:layout_marginTop="20dp"
+        android:textSize="20dp"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Spinner
+        android:id="@+id/type_spinner_R"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:background="@android:drawable/btn_dropdown"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:spinnerMode="dropdown" />
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="numberSigned"
+        android:ems="10"
+        android:layout_marginTop="10dp"
+        android:hint="Enter Maximum marks"
+        android:id="@+id/editTextMaxMarks"
+        android:layout_marginLeft="10dp"
+        android:padding="8dp"
+        android:background="@drawable/rounded_edittext"
+        android:layout_marginRight="10dp"
+        android:layout_gravity="center_horizontal"
+        android:autoText="false"
+        android:typeface="normal" />
+    <com.andexert.library.RippleView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        rv_centered="true">
+    <Button
+        android:id="@+id/submitButtonResult"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Start"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="15dp"
+        android:padding="8dp"
+        android:background="@drawable/rounded_button"
+        />
+    </com.andexert.library.RippleView>
+</LinearLayout>

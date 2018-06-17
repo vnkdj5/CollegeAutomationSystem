@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_attendance_ahow.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\src\\main\\res\\layout\\activity_attendance_ahow.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\show_atten_teacher.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\src\\main\\res\\layout\\show_atten_teacher.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash_screen.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\src\\main\\res\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\result_row.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\src\\main\\res\\layout\\result_row.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_result.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\src\\main\\res\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_result.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\src\\main\\res\\layout\\select_result.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_decor.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_simple_decor.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\result_view_row.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\src\\main\\res\\layout\\result_view_row.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\number_indicator_spinner.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\layout\\number_indicator_spinner.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\layout\\layout_snackbar.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_timetable.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\src\\main\\res\\layout\\activity_timetable.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\color_selector.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\layout\\color_selector.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\staff_main.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\src\\main\\res\\layout\\staff_main.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\snackbar.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\layout\\snackbar.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notice.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\src\\main\\res\\layout\\activity_notice.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_attendance.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\src\\main\\res\\layout\\activity_attendance.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar_include.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\layout\\layout_snackbar_include.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\timetable_row.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\src\\main\\res\\layout\\timetable_row.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\layout\\progress_dialog.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\student_list.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\src\\main\\res\\layout\\student_list.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\teacher_result.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\src\\main\\res\\layout\\teacher_result.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\attendance_show_row.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\src\\main\\res\\layout\\attendance_show_row.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mtf_layout.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.github.florent37\\materialtextfield\\1.0.2\\res\\layout\\mtf_layout.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\result_view.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\src\\main\\res\\layout\\result_view.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_class_attendance.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\src\\main\\res\\layout\\select_class_attendance.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\student_attendance.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\src\\main\\res\\layout\\student_attendance.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\student_main.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\src\\main\\res\\layout\\student_main.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_home.xml"
+    }
+]

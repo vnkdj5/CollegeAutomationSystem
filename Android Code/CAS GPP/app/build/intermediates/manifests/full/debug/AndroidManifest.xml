@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.gpp.cas"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:logo="@drawable/ic_launcher"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.gpp.cas.MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity android:name="com.gpp.cas.aboutActivity" />
+        <activity android:name="com.gpp.cas.com.gpp.cas.attendance.show.ShowAttendanceTeacher" />
+        <activity android:name="com.gpp.cas.StaffHome" />
+        <activity android:name="com.gpp.cas.StudentMain" />
+        <activity android:name="com.gpp.cas.com.gpp.cas.attendance.AttendanceActivity" />
+        <activity android:name="com.gpp.cas.com.gpp.cas.attendance.SelectActivity" />
+        <activity android:name="com.gpp.cas.TimetableActivity" />
+        <activity android:name="com.gpp.cas.com.gpp.cas.resultV1.ResultActivity" />
+        <activity android:name="com.gpp.cas.com.gpp.cas.resultV1.SelectResultActivity" />
+        <activity android:name="com.gpp.cas.com.gpp.cas.timetable.ActivityTimetable" />
+        <activity android:name="com.gpp.cas.com.gpp.cas.attendance.show.ShowAttendance" />
+        <activity android:name="com.gpp.cas.com.gpp.cas.resultV1.resultview.ShowResult" />
+        <activity android:name="com.gpp.cas.com.gpp.cas.NoticeActivity" />
+        <activity
+            android:name="com.gpp.cas.com.gpp.cas.SplashScreen"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/florentchampigny/Documents/MaterialTextField/materialtextfield/src/main/res/values-v21/dimens.xml -->
+    <eat-comment/>
+    <dimen name="mtf_cardview_additionnal">0dp</dimen>
+</resources>

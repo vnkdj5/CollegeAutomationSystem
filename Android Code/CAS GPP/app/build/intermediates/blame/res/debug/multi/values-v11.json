@@ -1,0 +1,245 @@
+[
+    {
+        "outputFile": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 377
+                },
+                "from": {
+                    "file": "I:\\Android\\CAS GPP\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 382,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 796
+                },
+                "from": {
+                    "file": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 801,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 1221
+                },
+                "from": {
+                    "file": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1226,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1649
+                },
+                "from": {
+                    "file": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1654,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 2075
+                },
+                "from": {
+                    "file": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2080,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 2504
+                },
+                "from": {
+                    "file": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2509,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 2929
+                },
+                "from": {
+                    "file": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2934,
+                    "endColumn": 88,
+                    "endOffset": 3018
+                },
+                "from": {
+                    "file": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3023,
+                    "endColumn": 100,
+                    "endOffset": 3119
+                },
+                "from": {
+                    "file": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3124,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 3527
+                },
+                "from": {
+                    "file": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3532,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 3947
+                },
+                "from": {
+                    "file": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3952,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 4054
+                },
+                "from": {
+                    "file": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4059,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 4183
+                },
+                "from": {
+                    "file": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4188,
+                    "endLine": 64,
+                    "endColumn": 12,
+                    "endOffset": 4547
+                },
+                "from": {
+                    "file": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4552,
+                    "endColumn": 70,
+                    "endOffset": 4618
+                },
+                "from": {
+                    "file": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4623,
+                    "endColumn": 82,
+                    "endOffset": 4701
+                },
+                "from": {
+                    "file": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4706,
+                    "endLine": 117,
+                    "endColumn": 12,
+                    "endOffset": 8450
+                },
+                "from": {
+                    "file": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 8455,
+                    "endLine": 169,
+                    "endColumn": 12,
+                    "endOffset": 12339
+                },
+                "from": {
+                    "file": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v11\\values-v11.xml"
+                }
+            }
+        ]
+    }
+]

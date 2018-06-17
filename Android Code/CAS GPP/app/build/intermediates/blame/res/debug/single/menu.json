@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\exploded-aar\\com.github.florent37\\materialtextfield\\1.0.2\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "I:\\Android\\CAS GPP\\app\\build\\intermediates\\res\\merged\\debug\\menu\\student_menu.xml",
+        "source": "I:\\Android\\CAS GPP\\app\\src\\main\\res\\menu\\student_menu.xml"
+    }
+]

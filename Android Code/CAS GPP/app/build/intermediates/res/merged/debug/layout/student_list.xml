@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/student_name"
+        android:layout_width="30dp"
+        android:layout_height="wrap_content"
+
+        android:layout_weight="0.72"
+        />
+
+    <Button
+        android:id="@+id/buttonPresent"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="20dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.19"
+        android:text="P"
+        android:focusable="true" />
+
+    <Button
+        android:id="@+id/buttonAbsent"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="20dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.17"
+        android:text="A" />
+</LinearLayout>

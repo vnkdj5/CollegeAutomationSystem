@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center|top">
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_launcher"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/clg_name"
+            android:textSize="18sp"
+            android:textStyle="bold" >
+        </TextView>
+
+    </TableRow>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:padding="10dp" >
+
+        <TableRow
+            android:id="@+id/tableRow2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp" >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:text="Enrollment No:"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:id="@+id/student_id_tv"
+                android:text="_id:"
+                android:textSize="20sp" />
+        </TableRow>
+    </TableLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:text="Menu"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:typeface="serif" />
+    <com.andexert.library.RippleView
+        rv_centered="true"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp">
+    <Button
+        android:id="@+id/buttonAttendanceSt"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+       style="@style/buttonStyle"
+        android:text="Check Attendance"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:onClick="viewAttendance"/>
+</com.andexert.library.RippleView>
+    <com.andexert.library.RippleView
+        rv_centered="true"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp">
+    <Button
+        android:id="@+id/buttonResultSt"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        style="@style/buttonStyle"
+        android:text="View Result"
+        android:onClick="viewResult"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp" />
+
+    </com.andexert.library.RippleView>
+    <com.andexert.library.RippleView
+        rv_centered="true"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp">
+
+    <Button
+        android:id="@+id/buttonTimetableSt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        style="@style/buttonStyle"
+        android:text="@string/timetable"
+        android:layout_marginLeft="15dp"
+        android:onClick="showTimetable"
+        android:layout_marginRight="15dp" />
+    </com.andexert.library.RippleView>
+    <com.andexert.library.RippleView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        rv_centered="true">
+        <Button
+            android:id="@+id/buttonLogoutS"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/rounded_button_red"
+            android:text="Logout"
+            style="@style/buttonStyle"
+            android:onClick="logoutB"
+            android:textColor="#ffffff"
+            android:textStyle="bold"
+            android:layout_gravity="center_horizontal" />
+    </com.andexert.library.RippleView>
+</LinearLayout>

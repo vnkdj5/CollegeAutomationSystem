@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Enrollment No:"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:id="@+id/textView" />
+
+        <EditText
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:layout_margin="5dp"
+            android:ems="10"
+            android:layout_marginLeft="10dp"
+            android:paddingLeft="10dp"
+            android:id="@+id/eTEnroll"
+            android:background="@drawable/rounded_edittext"
+            android:layout_gravity="right" />
+    </LinearLayout>
+
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Show Attendance"
+        android:id="@+id/btnAttenT"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/rounded_button"
+        android:textColor="#FFFFFF"
+        android:padding="5dp"
+        android:layout_marginBottom="10dp"
+        android:layout_gravity="center_horizontal" />
+<LinearLayout
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="wrap_content"
+    android:visibility="gone"
+    android:id="@+id/LLT">
+    <View style="@style/DividerHB"/>
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:showDividers="beginning"
+        >
+
+        <TextView
+
+            android:layout_width="51dp"
+            android:layout_height="wrap_content"
+            android:text="Subject"
+            android:textStyle="bold"
+            android:layout_margin="5dp"/>
+        <View style="@style/DividerB" />
+
+        <TextView
+            android:layout_width="91dp"
+            android:layout_height="wrap_content"
+            android:text="Lecture"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_margin="5dp"
+            />
+        <View style="@style/DividerB" />
+        <TextView
+            android:layout_width="91dp"
+            android:layout_height="wrap_content"
+            android:text="Practical"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_margin="5dp"
+            />
+
+        <View style="@style/DividerB" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Percentage"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_margin="5dp"
+            />
+
+
+    </TableRow>
+    <View style="@style/DividerHB" />
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:showDividers="beginning">
+
+        <TextView
+
+            android:layout_width="51dp"
+            android:layout_height="wrap_content"
+            android:text="Name"
+            android:textStyle="bold"
+            android:layout_margin="5dp"/>
+        <View style="@style/DividerB"/>
+
+        <TextView
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:text="P"
+            android:textStyle="bold"
+            android:layout_margin="5dp"
+            android:gravity="center" />
+        <View style="@style/Divider"/>
+        <TextView
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:text="A"
+            android:textStyle="bold"
+            android:layout_margin="5dp"
+            android:gravity="center" />
+        <View style="@style/DividerB"/>
+
+        <TextView
+            android:layout_width="40dp"
+            android:layout_margin="5dp"
+            android:layout_height="wrap_content"
+            android:text="P"
+
+            android:textStyle="bold"
+            android:id="@+id/tvPP"
+            android:gravity="center" />
+        <View style="@style/Divider"/>
+        <TextView
+            android:layout_margin="5dp"
+            android:layout_width="40dp"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:text="A"
+            android:gravity="center" />
+        <View style="@style/DividerB" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="L+P"
+            android:textStyle="bold"
+            android:layout_margin="5dp"
+            android:gravity="center" />
+
+
+    </TableRow>
+    <View style="@style/DividerH"/>
+</LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#b2b2b2">
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="445dp"
+        android:layout_margin="1dp"
+        android:background="@android:color/white"
+        android:dividerHeight="1dp"
+        android:divider="#b2b2b2"
+        android:id="@+id/lvAttenT" />
+</LinearLayout>
+    </LinearLayout>

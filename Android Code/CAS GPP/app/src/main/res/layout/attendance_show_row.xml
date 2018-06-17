@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:text="Subject Name"
+                android:id="@+id/tvSubject"
+                android:layout_margin="5dp"/>
+            <View style="@style/DividerB"/>
+
+            <TextView
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:text="LP"
+                android:layout_margin="5dp"
+                android:id="@+id/tvLP" />
+            <View style="@style/Divider"/>
+            <TextView
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:text="LA"
+                android:layout_margin="5dp"
+                android:id="@+id/tvLA"
+               />
+            <View style="@style/DividerB"/>
+            <TextView
+                android:layout_width="40dp"
+                android:layout_margin="5dp"
+                android:layout_height="wrap_content"
+                android:text="PP"
+
+                android:id="@+id/tvPP" />
+            <View style="@style/Divider"/>
+            <TextView
+                android:layout_margin="5dp"
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:text="PA"
+
+                android:id="@+id/tvPA" />
+            <View style="@style/DividerB"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Percentage"
+
+                android:layout_margin="5dp"
+                android:id="@+id/tvPerc" />
+
+        </TableRow>
+    </TableLayout>
+</LinearLayout>
